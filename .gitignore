@@ -4,6 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
+.iws
+workspace.xml
+tasks.xml
+config.js
 
 # testing
 /coverage
